@@ -9,48 +9,17 @@ assets:
   - name: obj/W_EX010_WI.mdlx
   method: copy
   source:
-  - name: obj/PPOGOHAMMER.mdlx
+  - name: obj/PogoHammer.mdlx
 
 - name: remastered/obj/W_EX010.mdlx/-0.dds
   method: copy
   source:
-  - name: remastered/obj/W_EX010.mdlx/PogoHammer.dds
-- name: remastered/obj/W_EX010.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010.a.us/-0.dds
-
-- name: remastered/obj/W_EX010_NM.mdlx/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_NM.mdlx/PogoHammer.dds
-- name: remastered/obj/W_EX010_NM.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_NM.a.us/-0.dds
-
-- name: remastered/obj/W_EX010_TR.mdlx/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_TR.mdlx/PogoHammer.dds
-- name: remastered/obj/W_EX010_TR.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_TR.a.us/-0.dds
-
-- name: remastered/obj/W_EX010_WI.mdlx/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_WI.mdlx/PogoHammer.dds
-- name: remastered/obj/W_EX010_WI.a.us/-0.dds
-  method: copy
-  source:
-  - name: remastered/obj/W_EX010_WI.a.us/-0.dds
+  - name: remastered/objPogoHammer_MDLX/PogoHammer.dds
 
 - name: remastered/itempic/item-043.imd/-0.dds
   method: copy
   source:
-  - name: remastered/itempic/item-043.imd/-0.dds
+  - name: remastered/itempic/item-043.imd/PogoHammer_Icon.dds
 
 - name: msg/us/sys.bar
   method: binarc
